@@ -1,0 +1,18 @@
+{
+  "interaction_regime": "sd",
+  "numerical_parameters": {
+    "power_of_two": 12,
+	"interval_length": 100
+  },
+  "computation_parameters": {
+    "time_range": [2, 8],
+    "time_step": 0.5
+  },
+  "physical_parameters": {
+    "k_0": 50,
+    "lambda": 49.75,
+    "alpha": 0.0099,
+    "sigma_xpb": 0.1,
+    "d": null
+  }
+}
